@@ -1,0 +1,2 @@
+
+This project is a simple web application built with ASP.NET Core 8.0 and Dapper for managing a product inventory. It features a homepage that displays a list of products retrieved from an MSSQL Server database, along with functionalities to add, edit, delete, and view product details. The application utilizes Bootstrap for a responsive and user-friendly interface. Designed to demonstrate CRUD (Create, Read, Update, Delete) operations, it allows users to efficiently manage their product information while ensuring a seamless experience across devices.
